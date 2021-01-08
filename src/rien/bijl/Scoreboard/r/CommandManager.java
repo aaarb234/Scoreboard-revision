@@ -5,7 +5,7 @@ import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
-import rien.bijl.Scoreboard.r.board.App;
+import rien.bijl.Scoreboard.
 import rien.bijl.Scoreboard.r.board.Row;
 import rien.bijl.Scoreboard.r.board.ScoreboardHolder;
 import rien.bijl.Scoreboard.r.util.ConfigControl;
