@@ -36,7 +36,7 @@ public class CommandManager implements CommandExecutor {
                         Main.disolveBoards();
                         ConfigControl.get().reloadConfigs();
                         Main.loadBoards();
-                        Func.smsg(player, "Scoreboard reloaded");
+                        Func.smsg(player, "Scoreboard se ha recargado");
                     }
                 }  else {
                     Func.msg(player,"Unknown command!");
